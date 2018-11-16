@@ -1,2 +1,1 @@
-# Gamificacao
-Projeto de Gamificação de Sprints
+# Sprint4.0
